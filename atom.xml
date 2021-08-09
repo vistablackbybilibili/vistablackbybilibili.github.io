@@ -1,45 +1,102 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://softwareVista.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-07-14T08:27:29.812Z</updated>
+    <id>https://VistablackBybilibili.github.io</id>
+    <title>Vista软件分享</title>
+    <updated>2021-08-09T06:31:36.764Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://softwareVista.github.io"/>
-    <link rel="self" href="https://softwareVista.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
-    <logo>https://softwareVista.github.io/images/avatar.png</logo>
-    <icon>https://softwareVista.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <link rel="alternate" href="https://VistablackBybilibili.github.io"/>
+    <link rel="self" href="https://VistablackBybilibili.github.io/atom.xml"/>
+    <subtitle>破解软件分享大全</subtitle>
+    <logo>https://VistablackBybilibili.github.io/images/avatar.png</logo>
+    <icon>https://VistablackBybilibili.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, Vista软件分享</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://softwareVista.github.io/post/hello-gridea/</id>
-        <link href="https://softwareVista.github.io/post/hello-gridea/">
+        <title type="html"><![CDATA[Windows7 SP1 X64精简版]]></title>
+        <id>https://VistablackBybilibili.github.io/post/windows7-sp1-x64-jing-jian-ban/</id>
+        <link href="https://VistablackBybilibili.github.io/post/windows7-sp1-x64-jing-jian-ban/">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作  1</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+        <updated>2021-07-14T12:18:09.000Z</updated>
+        <content type="html"><![CDATA[<p>UP主笔记本自用非常流畅，老电脑值得尝试<br>
+阿里云盘：https://www.aliyundrive.com/s/c75TsNFNueT<br>
+天翼云盘：https://cloud.189.cn/t/VFviiqququym<br>
+百度网盘：https://pan.baidu.com/s/1y6rvx9Mu8GjHY5MFdOB2ow 提取码：ze1s</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows10 21H1精简版]]></title>
+        <id>https://VistablackBybilibili.github.io/post/windows10-21h1-jing-jian-ban/</id>
+        <link href="https://VistablackBybilibili.github.io/post/windows10-21h1-jing-jian-ban/">
+        </link>
+        <updated>2021-07-14T12:09:40.000Z</updated>
+        <content type="html"><![CDATA[<p>UP主笔记本自用系统，阉割掉了Edge、安全中心、微软商店等其他组件，非常流畅。老电脑值得尝试。<br>
+<img src="https://VistablackBybilibili.github.io/post-images/1626264887040.jpg" alt="" loading="lazy"><br>
+阿里云盘：https://www.aliyundrive.com/s/Am5eT3MaRMj<br>
+天翼云盘：https://cloud.189.cn/t/BZraIb7VzINj<br>
+百度网盘：https://pan.baidu.com/s/1pQiKXlkExeRvHSDEOAqj1w 提取码：yywx</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows11 Dev预览版最新系统]]></title>
+        <id>https://VistablackBybilibili.github.io/post/windows11-dev-yu-lan-ban-zui-xin-xi-tong/</id>
+        <link href="https://VistablackBybilibili.github.io/post/windows11-dev-yu-lan-ban-zui-xin-xi-tong/">
+        </link>
+        <updated>2021-07-14T11:57:59.000Z</updated>
+        <content type="html"><![CDATA[<p>不是21996那个泄露版，该链接定期更新！<br>
+阿里云盘：https://www.aliyundrive.com/s/7C7jyDqrK1n<br>
+天翼云盘：https://cloud.189.cn/t/NF3mAbbYrqMn<br>
+百度网盘：https://pan.baidu.com/s/13eiO4BxQOMyIg6vGStwvnQ 提取码：mbtd</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[万兴神剪手破解版]]></title>
+        <id>https://VistablackBybilibili.github.io/post/wan-xing-shen-jian-shou-po-jie-ban/</id>
+        <link href="https://VistablackBybilibili.github.io/post/wan-xing-shen-jian-shou-po-jie-ban/">
+        </link>
+        <updated>2021-07-14T11:40:18.000Z</updated>
+        <content type="html"><![CDATA[<p>分享一个万兴神剪手破解版，剪视频无水印。<img src="https://VistablackBybilibili.github.io/post-images/1626262868281.jpg" alt="" loading="lazy"><br>
+<img src="https://VistablackBybilibili.github.io/post-images/1626262875039.jpg" alt="" loading="lazy"><br>
+阿里云盘：https://www.aliyundrive.com/s/DkKq3gjTG4g<br>
+天翼云盘：https://cloud.189.cn/t/J73euy6ZVjmy<br>
+百度网盘：https://pan.baidu.com/s/1cWm0nhTisPArMfvph6F1pQ 提取码：qmq9</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[酷我音乐破解版]]></title>
+        <id>https://VistablackBybilibili.github.io/post/ku-wo-yin-le-po-jie-ban/</id>
+        <link href="https://VistablackBybilibili.github.io/post/ku-wo-yin-le-po-jie-ban/">
+        </link>
+        <updated>2021-07-14T11:35:09.000Z</updated>
+        <content type="html"><![CDATA[<p>所有音乐都是免费下载的，千万不要登录账号否则会封号！！！<img src="https://VistablackBybilibili.github.io/post-images/1626262553714.jpg" alt="" loading="lazy"><br>
+阿里云盘：https://www.aliyundrive.com/s/EEhNYaHnj32<br>
+天翼云盘：https://cloud.189.cn/t/yaAJBbn67NNv<br>
+百度网盘：https://pan.baidu.com/s/1SmauNODTQOKVKOAgV1YDuQ 提取码：kkqv</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDM破解版]]></title>
+        <id>https://VistablackBybilibili.github.io/post/fen-xiang-yi-ge-idm-po-jie-ban/</id>
+        <link href="https://VistablackBybilibili.github.io/post/fen-xiang-yi-ge-idm-po-jie-ban/">
+        </link>
+        <updated>2021-07-14T11:23:04.000Z</updated>
+        <content type="html"><![CDATA[<p>分享一个IDM破解版，不需要激活。<img src="https://VistablackBybilibili.github.io/post-images/1626261913378.jpg" alt="" loading="lazy"><br>
+<img src="https://VistablackBybilibili.github.io/post-images/1626261932860.jpg" alt="" loading="lazy"><br>
+阿里云盘：https://www.aliyundrive.com/s/2tpMDVGKEjL<br>
+天翼云盘：https://cloud.189.cn/t/uQRFfij6FVJb<br>
+百度网盘：https://pan.baidu.com/s/1gTSUAh4ti9avyUsapMlaHA 提取码：rkhz</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bandicam破解版]]></title>
+        <id>https://VistablackBybilibili.github.io/post/bandicam-po-jie-ban/</id>
+        <link href="https://VistablackBybilibili.github.io/post/bandicam-po-jie-ban/">
+        </link>
+        <updated>2021-07-14T10:21:43.000Z</updated>
+        <content type="html"><![CDATA[<p>分享一个Bandicam破解版。<br>
+<img src="https://VistablackBybilibili.github.io/post-images/1626258686597.jpg" alt="" loading="lazy"><br>
+<img src="https://VistablackBybilibili.github.io/post-images/1626259317054.jpg" alt="" loading="lazy"><br>
+阿里云盘：https://www.aliyundrive.com/s/txJxu7zxtgs<br>
+天翼云盘：https://cloud.189.cn/t/qAFJRzMzeuAb<br>
+百度网盘：https://pan.baidu.com/s/1KViLN3apkbMj-yZ5UGdWug 提取码：5i4n</p>
 ]]></content>
     </entry>
 </feed>
