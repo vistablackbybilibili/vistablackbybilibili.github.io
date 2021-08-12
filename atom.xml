@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://VistablackBybilibili.github.io</id>
     <title>Vista软件分享</title>
-    <updated>2021-08-12T07:51:07.613Z</updated>
+    <updated>2021-08-12T08:13:44.940Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://VistablackBybilibili.github.io"/>
     <link rel="self" href="https://VistablackBybilibili.github.io/atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://VistablackBybilibili.github.io/images/avatar.png</logo>
     <icon>https://VistablackBybilibili.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Vista软件分享</rights>
+    <entry>
+        <title type="html"><![CDATA[Windows 10 X86极限精简版]]></title>
+        <id>https://VistablackBybilibili.github.io/post/windows-10-ji-xian-jing-jian-ban/</id>
+        <link href="https://VistablackBybilibili.github.io/post/windows-10-ji-xian-jing-jian-ban/">
+        </link>
+        <updated>2021-08-12T07:54:47.000Z</updated>
+        <content type="html"><![CDATA[<p>视频：https://www.bilibili.com/video/BV1T64y1s76i<br>
+这是这个视频使用的系统<br>
+<img src="https://VistablackBybilibili.github.io/post-images/1628755129165.jpg" alt="" loading="lazy"><br>
+只要108M运存就可以运行！<br>
+温馨提示：不推荐日用！！！！不推荐日用 ！！！ 不推荐日用 ！！！，实体机的话有些驱动装不上的，有些游戏打了运行库还是玩不了。拿去给虚拟机用还合适。<br>
+虚拟机要网卡驱动<br>
+下载链接<br>
+天翼云盘：https://cloud.189.cn/t/qA3qiuIz2uAz<br>
+百度网盘：https://pan.baidu.com/s/1oRlF4I4pd_WWyVVdsy8XxQ 提取码：mwvh<br>
+阿里云盘：https://www.aliyundrive.com/s/Ev63hK6g49c</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows7 SP1 X64精简版]]></title>
         <id>https://VistablackBybilibili.github.io/post/windows7-sp1-x64-jing-jian-ban/</id>
